@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pedro",
+      "surnames": "Carrasco",
+      "title": "",
+      "description": "I started to develop at 11 with a ZX Spectrum (now you can know about my age) Actually I work developing in PHP, Java at back and sometimes Javascript at front. \n I was in Universitat de València studying IT until 4th course, now I'm finishing the Cloud Apps Masters at URJC.\n My principal stack is Java, PHP, Java/Typescript, some knowledge of python, rabbit, etc.\nAlso I have experience in GIS systems.",
+      "avatar": {
+        "alt": "temp_profile_image-725027331.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2de758ca-306f-40d4-90bd-ce0e4fc8497d_temp_profile_image-7.jpg"
+      },
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pecarrasco"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pecarrasco"
+        }
+      ]
+    }
+  }
+}
