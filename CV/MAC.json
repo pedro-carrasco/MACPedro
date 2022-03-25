@@ -33,6 +33,34 @@
           "URL": "https://www.linkedin.com/in/pecarrasco"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
