@@ -8,20 +8,139 @@
     "profile": {
       "name": "Pedro",
       "surnames": "Carrasco",
-      "title": "",
       "description": "I started to develop at 11 with a ZX Spectrum (now you can know about my age) Actually I work developing in PHP, Java at back and sometimes Javascript at front. \n I was in Universitat de València studying IT until 4th course, now I'm finishing the Cloud Apps Masters at URJC.\n My principal stack is Java, PHP, Java/Typescript, some knowledge of python, rabbit, etc.\nAlso I have experience in GIS systems.",
       "avatar": {
         "alt": "temp_profile_image-725027331.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2de758ca-306f-40d4-90bd-ce0e4fc8497d_temp_profile_image-7.jpg"
       },
       "location": {
-        "notes": ""
+        "notes": "Valencia"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/pecarrasco"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostGIS",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -45,15 +164,15 @@
           "type": "technology"
         },
         {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
           "name": "Spring",
           "type": "technology"
         },
         {
           "name": "Symfony",
-          "type": "technology"
-        },
-        {
-          "name": "Ruby on Rails",
           "type": "technology"
         },
         {
