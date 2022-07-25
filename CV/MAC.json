@@ -142,6 +142,58 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo de aplicaciones en la nube",
+        "startDate": "2021-09-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Universidad Rey Juan Carlos I",
+          "description": "https://www.codeurjc.es/mastercloudapps/",
+          "URL": "https://www.codeurjc.es/mastercloudapps/",
+          "image": {
+            "alt": "AA9B08EC-59BE-401E-9535-0A727B804C63.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/65ae05e2-54e6-4e15-a0cd-c103bfeb5f31_aa9b08ec-59be-401e-9.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
