@@ -1,20 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Pedro",
       "surnames": "Carrasco",
+      "title": "",
       "description": "I started to develop at 11 with a ZX Spectrum (now you can know about my age) Actually I work developing in PHP, Java at back and sometimes Javascript at front. \n I was in Universitat de València studying IT until 4th course, now I'm finishing the Cloud Apps Masters at URJC.\n My principal stack is Java, PHP, Java/Typescript, some knowledge of python, rabbit, etc.\nAlso I have experience in GIS systems.",
       "avatar": {
         "alt": "temp_profile_image-725027331.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2de758ca-306f-40d4-90bd-ce0e4fc8497d_temp_profile_image-7.jpg"
       },
       "location": {
-        "notes": "Valencia"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -27,25 +31,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "JAVA",
@@ -60,13 +54,19 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
           "type": "technology"
         }
       },
@@ -84,13 +84,13 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "PostGIS",
           "type": "technology"
         }
       },
@@ -108,19 +108,7 @@
       },
       {
         "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
           "type": "technology"
         }
       },
@@ -132,13 +120,31 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bitbucket",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostGIS",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       }
@@ -231,7 +237,13 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Research Developer",
+        "Software Architect"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
