@@ -1,24 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Pedro",
       "surnames": "Carrasco",
-      "title": "",
+      "title": "Title",
       "description": "I started to develop at 11 with a ZX Spectrum (now you can know about my age) Actually I work developing in PHP, Java at back and sometimes Javascript at front. \n I was in Universitat de València studying IT until 4th course, now I'm finishing the Cloud Apps Masters at URJC.\n My principal stack is Java, PHP, Java/Typescript, some knowledge of python, rabbit, etc.\nAlso I have experience in GIS systems.",
       "avatar": {
-        "alt": "temp_profile_image-725027331.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2de758ca-306f-40d4-90bd-ce0e4fc8497d_temp_profile_image-7.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2de758ca-306f-40d4-90bd-ce0e4fc8497d_temp_profile_image-7.jpg",
+        "alt": "temp_profile_image-725027331.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -31,18 +31,90 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostGIS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -60,55 +132,7 @@
       },
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostGIS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
           "type": "technology"
         }
       },
@@ -120,31 +144,7 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -155,16 +155,16 @@
         "degreeAchieved": true,
         "name": "Desarrollo de aplicaciones en la nube",
         "startDate": "2021-09-01",
-        "finishDate": "2022-06-01",
         "institution": {
           "name": "Universidad Rey Juan Carlos I",
           "description": "https://www.codeurjc.es/mastercloudapps/",
           "URL": "https://www.codeurjc.es/mastercloudapps/",
           "image": {
-            "alt": "AA9B08EC-59BE-401E-9535-0A727B804C63.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/65ae05e2-54e6-4e15-a0cd-c103bfeb5f31_aa9b08ec-59be-401e-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/65ae05e2-54e6-4e15-a0cd-c103bfeb5f31_aa9b08ec-59be-401e-9.png",
+            "alt": "AA9B08EC-59BE-401E-9535-0A727B804C63.png"
           }
         },
+        "finishDate": "2022-06-01",
         "linkedCompetences": [
           {
             "name": "AWS",
@@ -200,14 +200,43 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistance to frustration",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/pecarrasco"
+          "URL": "https://www.linkedin.com/in/pecarrasco",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "pcarrascoponce@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "639654491",
+          "countryCode": "+34"
         }
       ]
     },
@@ -245,5 +274,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I want to continue developing and learning. I'm not closed to any stack, and I like transparency, some planification and to have to investigate and to solve new challenges",
+    "goodPractices": "DDD, TDD, Principios SOLID en el desarrollo, patrones de diseño en desarrollo y enterprise patterns."
   }
 }
