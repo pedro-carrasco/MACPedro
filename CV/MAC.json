@@ -8,11 +8,11 @@
     "profile": {
       "name": "Pedro",
       "surnames": "Carrasco",
-      "title": "Title",
-      "description": "I started to develop at 11 with a ZX Spectrum (now you can know about my age) Actually I work developing in PHP, Java at back and sometimes Javascript at front. \n I was in Universitat de València studying IT until 4th course, now I'm finishing the Cloud Apps Masters at URJC.\n My principal stack is Java, PHP, Java/Typescript, some knowledge of python, rabbit, etc.\nAlso I have experience in GIS systems.",
+      "title": "Senior Developer",
+      "description": "2023 Developer at Abi Global Health\n2022 - 2023 Backend developer at MotorK\n2021 - 2022 Developer at Fintech Driver S.L.\n2014 - Freelance sofware project developer\n2008 - now Chief at Frutos Secos Carrasco - Valencia and Freelance Consultor and Programmer\n2006 - 2008 Consultant chief in IVER T.I. S.A.\n1999 - 2006 Programmer at IVER T.I. S.A.\n\nSkills\n - Java/Spring boot, Javascript/Vue , Typescript/NestJs, Dart/Flutter, PHP/Symfony\n - Database expertise: MySQL and PostgreSQL\n - Linux and Unix systems.\n - Devops culture, Terraform, AWS and GCP",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2de758ca-306f-40d4-90bd-ce0e4fc8497d_temp_profile_image-7.jpg",
-        "alt": "temp_profile_image-725027331.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/78b3f75b-65a6-4db6-95fa-93507a1d179d_linkedin-photo-647.linkedin-photo-647",
+        "alt": "23/11/06/78b3f75b-65a6-4db6-95fa-93507a1d179d_linkedin-photo-647.linkedin-photo-647"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
@@ -28,15 +28,167 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "iver",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/27f85f49-cfd1-408b-9b57-ee1df7fcc871_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/27f85f49-cfd1-408b-9b57-ee1df7fcc871_linkedin-photo-647.linkedin-photo-647"
+          }
+        },
+        "roles": [
+          {
+            "name": "consultant",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "Aptitudes: PHP · Programación · MySQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IVER T.I."
+        },
+        "roles": [
+          {
+            "name": "Chief Consultant",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "Aptitudes: PHP · Programación · MySQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Technical Consultant",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "Desarrollo de proyectos informáticos para varias plataformas, sobre todo sistemas de localización."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance Software Developer"
+        },
+        "roles": [
+          {
+            "name": "Freelance Software Developer",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "I'm developing sofware projects centered in location services, android and web services."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FYNKUS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/abd58249-7648-4f3d-b5f9-eb97bb10a98f_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/abd58249-7648-4f3d-b5f9-eb97bb10a98f_linkedin-photo-647.linkedin-photo-647"
+          }
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": " me ayudó a conseguir este empleo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MotorK",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/21a3f19c-c321-487a-84ae-0b7c7dfd0a91_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/21a3f19c-c321-487a-84ae-0b7c7dfd0a91_linkedin-photo-647.linkedin-photo-647"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de back-end",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "Senior Backend Developer in Leadspark team"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Frutos Secos Carrasco - Valencia"
+        },
+        "roles": [
+          {
+            "name": "Gerente jefe",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "Aptitudes: Desarrollo web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Abi Global Health",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/43976115-9910-4e6f-b9a2-832d6c137bce_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/43976115-9910-4e6f-b9a2-832d6c137bce_linkedin-photo-647.linkedin-photo-647"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2023-11-06",
+            "challenges": [
+              {
+                "description": "Aptitudes: AWS Lambda · NestJS · Amazon Web Services (AWS) · Bases de datos · TypeScript"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "EN",
-        "level": "Professional working proficiency"
+        "name": "CA",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "ES",
+        "name": "CA",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -210,13 +362,13 @@
       },
       {
         "skill": {
-          "name": "Continuous learning",
+          "name": "Capacity for self-management ",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Resistance to frustration",
+          "name": "Continuous learning",
           "type": "practice"
         }
       }
