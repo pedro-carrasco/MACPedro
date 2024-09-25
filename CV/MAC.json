@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -32,87 +32,33 @@
     "jobs": [
       {
         "organization": {
-          "name": "iver",
+          "name": "Abi Global Health",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/27f85f49-cfd1-408b-9b57-ee1df7fcc871_linkedin-photo-647.linkedin-photo-647",
-            "alt": "23/11/06/27f85f49-cfd1-408b-9b57-ee1df7fcc871_linkedin-photo-647.linkedin-photo-647"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/43976115-9910-4e6f-b9a2-832d6c137bce_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/43976115-9910-4e6f-b9a2-832d6c137bce_linkedin-photo-647.linkedin-photo-647"
           }
         },
         "roles": [
           {
-            "name": "consultant",
-            "startDate": "2023-11-06",
+            "name": "Back End Developer",
+            "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Aptitudes: PHP · Programación · MySQL"
+                "description": "Aptitudes: AWS Lambda · NestJS · Amazon Web Services (AWS) · Bases de datos · TypeScript"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IVER T.I."
-        },
-        "roles": [
-          {
-            "name": "Chief Consultant",
-            "startDate": "2023-11-06",
-            "challenges": [
+            ],
+            "competences": [
               {
-                "description": "Aptitudes: PHP · Programación · MySQL"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Autónomo"
-        },
-        "roles": [
-          {
-            "name": "Technical Consultant",
-            "startDate": "2023-11-06",
-            "challenges": [
+                "name": "AWS",
+                "type": "technology"
+              },
               {
-                "description": "Desarrollo de proyectos informáticos para varias plataformas, sobre todo sistemas de localización."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Freelance Software Developer"
-        },
-        "roles": [
-          {
-            "name": "Freelance Software Developer",
-            "startDate": "2023-11-06",
-            "challenges": [
+                "name": "Serverless",
+                "type": "technology"
+              },
               {
-                "description": "I'm developing sofware projects centered in location services, android and web services."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "FYNKUS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/abd58249-7648-4f3d-b5f9-eb97bb10a98f_linkedin-photo-647.linkedin-photo-647",
-            "alt": "23/11/06/abd58249-7648-4f3d-b5f9-eb97bb10a98f_linkedin-photo-647.linkedin-photo-647"
-          }
-        },
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-11-06",
-            "challenges": [
-              {
-                "description": " me ayudó a conseguir este empleo"
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
@@ -129,10 +75,72 @@
         "roles": [
           {
             "name": "Desarrollador de back-end",
-            "startDate": "2023-11-06",
+            "startDate": "2022-11-01",
+            "finishDate": "2023-03-01",
             "challenges": [
               {
                 "description": "Senior Backend Developer in Leadspark team"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FYNKUS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/abd58249-7648-4f3d-b5f9-eb97bb10a98f_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/abd58249-7648-4f3d-b5f9-eb97bb10a98f_linkedin-photo-647.linkedin-photo-647"
+          }
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": " me ayudó a conseguir este empleo"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
               }
             ]
           }
@@ -145,7 +153,8 @@
         "roles": [
           {
             "name": "Gerente jefe",
-            "startDate": "2023-11-06",
+            "startDate": "2007-10-01",
+            "finishDate": "2024-06-01",
             "challenges": [
               {
                 "description": "Aptitudes: Desarrollo web"
@@ -156,19 +165,81 @@
       },
       {
         "organization": {
-          "name": "Abi Global Health",
+          "name": "Freelance Software Developer"
+        },
+        "roles": [
+          {
+            "name": "Freelance Software Developer",
+            "startDate": "2007-07-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "I'm developing sofware projects centered in location services, android and web services."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "iver",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/43976115-9910-4e6f-b9a2-832d6c137bce_linkedin-photo-647.linkedin-photo-647",
-            "alt": "23/11/06/43976115-9910-4e6f-b9a2-832d6c137bce_linkedin-photo-647.linkedin-photo-647"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/27f85f49-cfd1-408b-9b57-ee1df7fcc871_linkedin-photo-647.linkedin-photo-647",
+            "alt": "23/11/06/27f85f49-cfd1-408b-9b57-ee1df7fcc871_linkedin-photo-647.linkedin-photo-647"
           }
         },
         "roles": [
           {
-            "name": "Back End Developer",
-            "startDate": "2023-11-06",
+            "name": "consultant",
+            "startDate": "1999-09-01",
+            "finishDate": "2007-07-01",
             "challenges": [
               {
-                "description": "Aptitudes: AWS Lambda · NestJS · Amazon Web Services (AWS) · Bases de datos · TypeScript"
+                "description": "Aptitudes: PHP · Programación · MySQL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PostGIS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
@@ -180,15 +251,18 @@
     "languages": [
       {
         "name": "CA",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Full professional proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -218,7 +292,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -384,18 +458,12 @@
       ],
       "contactMails": [
         "pcarrascoponce@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "639654491",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
