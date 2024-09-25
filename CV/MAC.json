@@ -257,7 +257,7 @@
       },
       {
         "skill": {
-          "name": "Bitbucket",
+          "name": "AWS Lambda",
           "type": "technology"
         }
       },
@@ -269,91 +269,19 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Java",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostGIS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -479,6 +407,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I want to continue developing and learning. I'm not closed to any stack, and I like transparency, some planification and to have to investigate and to solve new challenges",
     "goodPractices": "DDD, TDD, Principios SOLID en el desarrollo, patrones de diseño en desarrollo y enterprise patterns."
   }
